@@ -1,0 +1,111 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+body{
+ margin: 0px;
+ padding: 0px; 
+background-image:url("../bg.jpg"  );
+
+background-repeat: no-repeat;
+background-size: 1700px 1000px;
+overflow: hidden;
+cursor: url(../cursur3.2.png),pointer;
+}
+#Almas{
+    font-family: 'Courgette', cursive;
+    font-size: 140px;
+    color:gold;
+    /* border: 2px solid white; */
+    /* margin: 260px; */
+    height: 130px;
+    width: 300px;
+    margin: 21px 101px;
+    -webkit-text-stroke: 3px rgba(17, 17, 17, 0.979);
+    cursor: url(../cursur3.2.png),pointer;
+}
+
+
+    #creation{
+    font-family: 'Courgette', cursive;
+    font-size: 120px;
+    position: absolute;
+    color: white;
+    /* border: 2px solid white; */
+    margin: 260px;
+    height: 130px;
+    width: 300px;
+    margin: -33px 252px;
+    -webkit-text-stroke: 3px rgba(7, 7, 7, 0.973);
+cursor: url(../cursur3.2.png),pointer;
+}
+ #photos{ 
+    /* border: 2px solid rgb(244, 245, 242);  */
+    position: absolute;
+    height: 40x;
+    width: 40px;
+    margin: -193px 999px;
+    
+}
+#image{
+    filter: opacity(0.7) brightness(1.2) contrast(1.2);
+}
+#points{
+    position: absolute;
+    color: rgba(8, 8, 8, 0.979);
+    /* border: 2px solid rgb(238, 240, 243); */
+    height: 395px;
+    width: 620px;
+    font-size: 40px;
+    margin: 40px 80px;
+    padding: 50px 0px;
+    cursor: url(../cursur3.2.png),pointer;
+    -webkit-text-stroke: 0.5px rgba(146, 146, 143, 0.918);
+}
+#points li{
+    line-height: 60px;
+}
+#points li:hover{
+    
+    font-size: 50px;
+color: rgba(190, 255, 255, 0.986);
+-webkit-text-stroke: 0.8px rgb(17, 17, 17);
+ 
+}
+
+#image{
+    height: 423px;
+    width: 574px;
+    margin: 19px -19px;
+}  
+
+#description{
+    
+        font-family: 'Dancing Script', cursive;
+        /* border: 2px solid rgb(238, 244, 250); */
+        -webkit-text-stroke: 1px rgb(20, 20, 20);
+        position: absolute;
+        color: rgb(0, 255, 13);
+        height: 131px;
+        width: 653px;
+        font-size: 50px;
+        margin: 250px 883px;
+        padding: 50px 0px;
+        text-align: center;
+        cursor: url(../cursur3.2.png),pointer;
+}
+#contact{
+    /* border: 2px solid rgb(4, 111, 233); */
+    position: absolute;
+    color: white;
+    height: 10px;
+    width: 520px;
+    font-size: 36px;
+    margin: 496px 997px;
+    padding: 22px 0px;
+    text-align: right;
+    cursor: url(../cursur3.2.png),pointer;
+}
+#contact:hover{
+    color: rgb(38, 253, 49);
+    cursor: url(../cursur3.2.png),pointer;
+    
+}
